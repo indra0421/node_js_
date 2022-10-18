@@ -3,5 +3,3 @@
 # PULL REQUEST
 # Open Source Contribution
 # node js -- code
-# holopin
-# resources
