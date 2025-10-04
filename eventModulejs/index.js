@@ -7,7 +7,6 @@ const event = new EventEmitter();
 //   console.log("your name is indranil");
 // })
 
-// event.emit('sayMyName');
 
 // 2. create an event emiter instance anf register a couple of callbacks 
 
