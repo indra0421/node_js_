@@ -13,14 +13,6 @@ const event = new EventEmitter();
 // event.on('sayMyName', () => {
 //     console.log("your name is indranil");
 //   })
-//   event.on('sayMyName', () => {
-//     console.log("your name is naskar");
-//   })
-//   event.on('sayMyName', () => {
-//     console.log("your name is pal");
-//   })
-
-//   event.emit('sayMyName');
 
 //   3. Registering for the event with callback parameters
 
