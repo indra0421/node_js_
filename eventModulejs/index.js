@@ -14,6 +14,18 @@ const event = new EventEmitter();
 //     console.log("your name is indranil");
 //   })
 
+
+// 3. registering for the event to be fired only one time using once
+// event.once('sayMyName', () => {
+//   console.log("your name is indranil");
+// });
+// event.emit('sayMyName'); // only once it will be printed
+// event.emit('sayMyName'); // only once it will be printed
+// event.emit('sayMyName'); // only once it will be printed
+// event.emit('sayMyName'); // only once it will be printed
+// done by ankit for hacotberfest
+
+
 //   3. Registering for the event with callback parameters
 
 event.on('checkPage',(sc,msg,port) => {
